@@ -9,3 +9,16 @@ British-Airways-virtual-internship
  <br /preparing a powerpoint representation to highlight our insights and analysis
  <br />Program link: Forage
  <br />Completion Certificate link: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_MNQYu7G4v6XzYNZj4_1716890961716_completion_certificate.pdf
+
+
+  Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
