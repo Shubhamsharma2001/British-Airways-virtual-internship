@@ -1,9 +1,9 @@
 # British-Airways-virtual-internship
 British-Airways-virtual-internship
 # Task 1
- <br />applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
- <br />analyze customer reviews using sentimental analysis to sort positive and negative reviews
- <br />preparing a powerpoint representation to highlight our insights and analysis
+ <br /> - applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
+ <br /> - analyze customer reviews using sentimental analysis to sort positive and negative reviews
+ <br /> - preparing a powerpoint representation to highlight our insights and analysis
 # Task 2
  <br />creating a classification model to predict customer buying behaviour
  <br />preparing a powerpoint representation to highlight our insights and analysis
